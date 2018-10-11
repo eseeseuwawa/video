@@ -563,4 +563,4 @@ async def on_message(message):
 
 
 #CLIENT KEY
-client.run("Mzg0NzcxMjczOTQ4OTIxODU4.Dp7Ylg.XYQ7srynXgP6G4OzzEX50Uiysgs")
+client.run("KEY")
